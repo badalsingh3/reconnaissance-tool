@@ -25,10 +25,16 @@ someone).
 - Subdomains — via subfinder
 - Shodan — open ports, service banners, known CVEs on the resolved IP
 
-## Screenshot
+## Screenshots
 
-<!-- Add your report.html screenshot here -->
-<!-- ![report screenshot](docs/screenshot.png) -->
+**Terminal output while scanning:**
+
+![terminal output](docs/screenshot1.png)
+
+**Generated HTML report:**
+
+![report screenshot](docs/screenshot2.png)
+
 
 ## Why scanme.nmap.org in the example
 
