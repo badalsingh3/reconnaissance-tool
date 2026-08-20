@@ -1,4 +1,4 @@
-```markdown
+
 # Recon Automation Tool
 
 A bash script that automates passive domain reconnaissance — whois lookup,
@@ -49,7 +49,7 @@ issues, no risk of it looking like I scanned something I shouldn't have.
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/badalsingh3/reconnaissance-tool
 cd Recon-Tool
 ```
 
